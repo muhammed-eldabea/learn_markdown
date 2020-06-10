@@ -18,21 +18,27 @@
   |name|Code|Email| 
   |-----|-----|----| 
   |mohammed|01|bababa@yahoo.com| 
+  '''
 * >>steps are  :
   >>|name|Code|Email| 
     |-----|-----|----| 
-        |mohammed|01|bababa@yahoo.com| 
+      |mohammed|01|bababa@yahoo.com| 
+      '''
   ___ 
 
 * to add a link 
     *  follow this steps 
+    '''
       >> add [site name ](link)
       >>example 
+      '''
     [for more information](https://www.markdownguide.org/cheat-sheet/) 
     ___
 * to add an image  
     *  follow this steps 
+    '''
       >> add ![site name ](link)
       >>Dont forget the not signe   
       >>example  
+      '''
  ![Google photo](https://www.google.com.eg/url?sa=i&url=https%3A%2F%2Fencrypted-tbn0.gstatic.com%2Fimages%3Fq%3Dtbn%3AANd9GcQjzC2JyZDZ_RaWf0qp11K0lcvB6b6kYNMoqtZAQ9hiPZ4cTIOB&psig=AOvVaw2ija73FAs8vdt4cBDvXhs9&ust=1591845650740000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLjN6ael9ukCFQAAAAAdAAAAABAD)  
