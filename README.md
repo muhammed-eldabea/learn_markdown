@@ -8,9 +8,9 @@
 *  stric a word (shift+~ ) twic    example>> ~~stric~~ 
 * to add a list put astric befor line 
     * add a numarical list be number+dot 
-            1. we will use tables  
-            2. and image 
-            3. add a code line 
+             *  we will use tables  
+             *  and image 
+             *  add a code line 
 * to add a line we will write a three underscore 
   ___ 
 
